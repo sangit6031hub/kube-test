@@ -1,4 +1,7 @@
 # kube-test
+
+**Tutorials : ** https://devopscube.com/kubernetes-minikube-tutorial/
+
 Test scripts for Kube (multiple crons)
 
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/3926625c-3d2e-4b6a-9e02-4df3bc3b7906">
