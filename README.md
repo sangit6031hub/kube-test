@@ -1,6 +1,6 @@
 # kube-test
 
-**Tutorials : ** https://devopscube.com/kubernetes-minikube-tutorial/
+**Tutorials** : https://devopscube.com/kubernetes-minikube-tutorial/
 
 Test scripts for Kube (multiple crons)
 
